@@ -1,0 +1,12 @@
+    Abjurador
+    Adivinho
+    Bruxo
+    Cronomante
+    Encantador
+    Evocador
+    Geomante
+    Ilusionista
+    Invocador
+    Necromante
+    Numeromante
+    Transmutador
